@@ -3,7 +3,7 @@
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jefferson Almeida Eler 
 (https://www.linkedin.com/in/jefferson-almeida-b167541a4/) enquanto estudava em Trybe (https://www.betrybe.com/)
 
-_ A Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego.
+ A Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego.
 
 O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a introdução de desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias avançadas e habilidades comportamentais.
 
@@ -11,13 +11,13 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 ##### Bloco 1: Introdução - Unix e Shell
 
-- [] 1-3: _Unix e Shell- Parte 1_
-- [] 1-4: _Unix e Shell- Parte 2_
+- [x] 1-3: _Unix e Shell- Parte 1_
+- [x] 1-4: _Unix e Shell- Parte 2_
 
 ##### Bloco 2: Git e GitHub
 
-- [] 2-1: _O que é e para que serve? _
-- [] 2-2: _Compreendendo os Comandos_
+- [x] 2-1: _O que é e para que serve? _
+- [x] 2-2: _Compreendendo os Comandos_
 - [] 2-3: _Internet - Entendendo como funciona_
 
 ##### Bloco 3: Introdução - HTML e CSS
