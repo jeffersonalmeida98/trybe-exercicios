@@ -253,4 +253,4 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [] 36-4: _Entrada e Saída de Dados_
 - [] 35-5: _ [Projeto - Notícias de tecnologia] () _
 
-# [...]
+
