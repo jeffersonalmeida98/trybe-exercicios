@@ -1,6 +1,7 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jefferson Almeida Eler (https://www.linkedin.com/in/jefferson-almeida-b167541a4/) _ enquanto estudava em Trybe (https://www.betrybe.com/)
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jefferson Almeida Eler 
+(https://www.linkedin.com/in/jefferson-almeida-b167541a4/) enquanto estudava em Trybe (https://www.betrybe.com/)
 
 _ "A Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego."
 
