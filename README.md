@@ -3,7 +3,7 @@
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jefferson Almeida Eler 
 (https://www.linkedin.com/in/jefferson-almeida-b167541a4/) enquanto estudava em Trybe (https://www.betrybe.com/)
 
-_ "A Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego."
+_ A Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego.
 
 O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a introdução de desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias avançadas e habilidades comportamentais.
 
