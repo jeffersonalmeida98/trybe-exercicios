@@ -1,10 +1,4 @@
-O que vamos aprender?
-O Unix é um sistema operacional popular que foi lançado em 1969 e ganhou muitas das variações que se tornaram os principais sistemas operacionais do mercado. Vamos aprender como funciona o Unix e como interagir com ele através do terminal, utilizando o Bash.
-Os principais pontos abordados serão:
-Quais são seus principais componentes?
-Quais são suas variações?
-Arquivos e processos, o que são?
-Qual sua estrutura de diretórios?
-O que é o terminal?
-Comandos executados no Shell.
+### BLOCO 1 - Unix & Shell
+Esse bloco pertence ao módulo de fundamentos do curso da Trybe.
 
+Neste bloco eu aprendi oque é o Unix, como ele funciona, oque é o Kernell, o Shell e os Aplicativos, aprendi a como utilizar o terminal e aprendi diversos comandos básicos de utilização do Shell. Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco.
